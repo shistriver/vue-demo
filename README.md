@@ -1,6 +1,6 @@
 # vue-demo
 
-> 项目主要是为了学习 Vue.js 而仿照 [codepen](https://codepen.io/search/pens?q=vue&page=68&order=popularity&depth=everything&show_forks=false)网站中的一些例子
+> [项目](https://shistriver.github.io/vue-demo/dist/index.html)主要是为了学习 Vue.js 而仿照 [codepen](https://codepen.io/search/pens?q=vue&page=68&order=popularity&depth=everything&show_forks=false)网站中的一些例子
 
 ## Build Setup
 

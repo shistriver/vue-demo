@@ -1,19 +1,27 @@
 <template>
-    <div class="container">
+    <div>
         <NavBar></NavBar>
-        <SideNav></SideNav>
-    </div>
+        <div class="container">
+        	<div class="row">
+        		<!-- 侧边栏 -->
+        		<SideNav></SideNav>
+		        <Content></Content>
+        	</div>
+	    </div>
+	</div>
 </template>
 
 <script>
 import NavBar from '@/components/navBar/NavBar'
 import SideNav from '@/components/sideNav/SideNav'
+import Content from '@/components/Content'
 
 export default {
     name: 'Layout',
     components: {
       NavBar,
-      SideNav
+      SideNav,
+      Content
     }
 }
 </script>
